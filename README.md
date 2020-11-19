@@ -4,8 +4,8 @@
 - 👯 I’m looking to collaborate on open source app developement
 - 🤔 I’m available for hire
 - 💬 Ask me about ...
-- 📫 How to reach me: 8114613927 sidhartha_0108@outlook.com
-- 😄 Nick name
+- 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
+- 😄 Nick/code name:lzy_coder129
 <!--
 **sidharthasekhar129/sidharthasekhar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
