@@ -11,7 +11,7 @@
 ## Connect with me
 [<img src="https://user-images.githubusercontent.com/55876522/99840007-bad97d80-2b91-11eb-8874-21220b3c5415.png" width="50"/>](https://twitter.com/Sidhartha_123)
 [<img src="https://user-images.githubusercontent.com/55876522/99840347-62ef4680-2b92-11eb-9e92-d39dd0cd6076.png" width="50"/>](https://facebook.com/Sidhartha.sekhar.52)
-
+[<img src="https://user-images.githubusercontent.com/55876522/99840615-e315ac00-2b92-11eb-95cf-adebdae5c661.jpeg" width="50"/>](https://instagram.com/Sidhartha_sekhar_127)
 <!--
 **sidharthasekhar129/sidharthasekhar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
