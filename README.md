@@ -1,4 +1,5 @@
 # Hi there 👋 . I'M SIDHARTHA SEKHAR
+## A self tought programmer.
  - 🌱 I’m currently learning crossplatform app developemnt using flutter and react-native.
  -Got 2 years experience in native app developement
 - 👯 I’m looking to collaborate on open source app developement
