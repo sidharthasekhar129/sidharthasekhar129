@@ -7,6 +7,9 @@
 - 💬 Ask me about ...
 - 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
 - 😄 Nick/code name:lzy_coder129
+
+## Connect with me
+[<img src="https://user-images.githubusercontent.com/55876522/99840007-bad97d80-2b91-11eb-8874-21220b3c5415.png" width="25"/>](https://twitter.com/Sidhartha_123)
 <!--
 **sidharthasekhar129/sidharthasekhar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
