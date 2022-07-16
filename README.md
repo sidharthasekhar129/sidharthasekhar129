@@ -6,7 +6,7 @@
 - 🤔 I’m available for hire
 - 💬 Ask me about ...
 - 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
-- 😄 Nick/code name:lzy_coder129
+- 😄 Have many private repositories here. If you are checking out my github, contact me...
 
 ## Connect with me
 [<img src="https://user-images.githubusercontent.com/55876522/99841014-849cfd80-2b93-11eb-9632-152cf3fe9ea9.png" width="50"/>](https://linkedin.com/in/sidhartha-sekhar/)
