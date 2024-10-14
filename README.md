@@ -1,12 +1,91 @@
 # Hi there 👋 . I'M SIDHARTHA SEKHAR
 ## A self tought programmer.
- - 🌱 I’m currently learning crossplatform app developemnt using flutter and react-native.
- -Got 2 years experience in native app developement
+- 💼 I am currently working as Fullstack Web/Mobile developer at Homznoffiz PVT. LTD. (https://homznoffiz.com)
+- 💡 Exploring DevOps and its role in IT sector.
+-Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
 - 👯 I’m looking to collaborate on open source app developement
-- 🤔 I’m available for hire
-- 💬 Ask me about ...
 - 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
-- 😄 Have many private repositories here. If you are checking out my github, contact me...
+
+I am mastering a set of core technologies, tools for an SDE-1-2 (Software Development Engineer) or DevOps role. 
+Here are my DevOps Tech Stack:
+
+### 1. **Version Control & CI/CD**
+   - **Git**: Version control system for tracking changes in code.
+   - **GitHub/GitLab/Bitbucket**: Platforms for hosting repositories and managing workflows.
+   - **Jenkins**: CI/CD tool to automate build, testing, and deployment.
+   - **GitLab CI**: Built-in CI/CD for GitLab repositories.
+   - **CircleCI** or **Travis CI**: Alternative CI/CD platforms.
+
+### 2. **Containerization & Orchestration**
+   - **Docker**: For containerization, allowing you to package applications with dependencies.
+   - **Kubernetes (K8s)**: Orchestrates container deployment, scaling, and management.
+   - **Helm**: Package manager for Kubernetes.
+
+### 3. **Cloud Platforms**
+   - **AWS** (Amazon Web Services): EC2, S3, RDS, IAM, Lambda, etc.
+   - **Azure**: Virtual machines, App services, AKS, Functions, etc.
+   - **Google Cloud Platform (GCP)**: Compute Engine, Cloud Functions, GKE (Kubernetes Engine).
+
+### 4. **Infrastructure as Code (IaC)**
+   - **Terraform**: IaC tool for automating cloud resource provisioning.
+   - **Ansible**: Automation tool for configuring systems and deploying software.
+   - **CloudFormation** (AWS specific): AWS-native infrastructure automation tool.
+
+### 5. **Monitoring & Logging**
+   - **Prometheus**: Monitoring tool that collects metrics and allows real-time querying.
+   - **Grafana**: Visualization tool that works well with Prometheus for monitoring.
+   - **ELK Stack** (Elasticsearch, Logstash, Kibana): Logging and analytics solution.
+   - **Datadog**: Cloud monitoring and security platform.
+   - **New Relic**: Application performance monitoring (APM) tool.
+
+### 6. **Message Queuing & Stream Processing**
+   - **Kafka**: Distributed message streaming platform for building real-time data pipelines.
+   - **RabbitMQ**: Message broker for asynchronous communication between services.
+   - **Redis**: In-memory data structure store, commonly used as a database, cache, and message broker.
+   - **Apache Flink** or **Apache Storm**: For stream processing.
+
+### 7. **Databases**
+   - **MySQL** / **PostgreSQL**: Relational databases.
+   - **MongoDB**: NoSQL database for unstructured data.
+   - **Cassandra**: NoSQL database for managing large amounts of data across multiple servers.
+
+### 8. **Configuration Management**
+   - **Chef** / **Puppet**: Automation tools for configuration management and application deployment.
+   - **SaltStack**: Another automation and configuration tool.
+
+### 9. **Networking & Security**
+   - **Nginx** / **HAProxy**: Web server and reverse proxy technologies.
+   - **SSL/TLS**: Implementing HTTPS and securing communications.
+   - **OAuth2** / **JWT**: Authentication and authorization protocols.
+
+### 10. **Build Tools**
+   - **Maven** / **Gradle**: Build automation tools commonly used with Java projects.
+   - **Webpack**: Module bundler for JavaScript applications.
+
+### 11. **Operating Systems & Scripting**
+   - **Linux**: Mastering shell scripting (Bash) and Linux administration is crucial for DevOps.
+   - **Python** / **Shell scripting**: For automation and scripting tasks.
+
+### 12. **Microservices Architecture & API Gateways**
+   - **Spring Boot** / **Node.js**: For building microservices.
+   - **Kong** / **Envoy**: API Gateway for managing and routing API traffic.
+
+### 13. **Virtualization & Cloud Native Technologies**
+   - **VMware** / **VirtualBox**: Virtualization tools.
+   - **Vagrant**: Tool for building and managing virtualized development environments.
+
+### 14. **Other DevOps Tools**
+   - **Consul**: Service mesh for networking microservices.
+   - **Vault**: Tool for managing secrets and sensitive data.
+   - **Istio**: Service mesh for microservices security and communication control.
+   - **Argo CD**: GitOps tool for Kubernetes.
+
+### 15. **Testing & Quality Assurance**
+   - **JUnit** / **TestNG** / **Jest**: Unit testing frameworks for various languages.
+   - **Selenium**: For UI testing.
+   - **Postman**: API testing tool.
+  
+Mastering a combination of these tools, along with strong problem-solving skills, will prepare you for SDE1-2 and DevOps roles in most companies.
 
 ## Connect with me
 [<img src="https://user-images.githubusercontent.com/55876522/99841014-849cfd80-2b93-11eb-9632-152cf3fe9ea9.png" width="50"/>](https://linkedin.com/in/sidhartha-sekhar/)
