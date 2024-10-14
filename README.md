@@ -2,7 +2,7 @@
 ## A self tought programmer.
 - 💼 I am currently working as Fullstack Web/Mobile developer at Homznoffiz PVT. LTD. (https://homznoffiz.com)
 - 💡 Exploring DevOps and its role in IT sector.
--Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
+- Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
 - 👯 I’m looking to collaborate on open source app developement
 - 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
 
