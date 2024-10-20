@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on open source app developement
 - 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
 
-I am mastering a set of core technologies, tools for an SDE1, SDE2, System Design and DevOps role. 
+I am mastering a set of core technologies and tools for an SDE1, SDE2, System Design and DevOps role. 
 Tech Stack:
 
 ### 1. **Version Control & CI/CD**
