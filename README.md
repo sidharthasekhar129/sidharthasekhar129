@@ -85,7 +85,6 @@ Tech Stack:
    - **Selenium**: For UI testing.
    - **Postman**: API testing tool.
   
-Mastering a combination of these tools, along with strong problem-solving skills, will prepare you for SDE1-2 and DevOps roles in most companies.
 
 ## Connect with me
 [<img src="https://user-images.githubusercontent.com/55876522/99841014-849cfd80-2b93-11eb-9632-152cf3fe9ea9.png" width="50"/>](https://linkedin.com/in/sidhartha-sekhar/)
