@@ -1,6 +1,6 @@
 # Hi there 👋 . I'M SIDHARTHA SEKHAR
 ## A self tought programmer.
-- 💼 I am currently working as Fullstack Web/Mobile developer at Homznoffiz PVT. LTD. (https://homznoffiz.com)
+- 💼 I am currently working as SDE2 at Homznoffiz PVT. LTD. (https://homznoffiz.com)
 - 💡 Exploring DevOps and its role in IT sector.
 - Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
 - 👯 I’m looking to collaborate on open source app developement
@@ -14,7 +14,6 @@ Tech Stack:
    - **GitHub/GitLab/Bitbucket**: Platforms for hosting repositories and managing workflows.
    - **Jenkins**: CI/CD tool to automate build, testing, and deployment.
    - **GitLab CI**: Built-in CI/CD for GitLab repositories.
-   - **CircleCI** or **Travis CI**: Alternative CI/CD platforms.
 
 ### 2. **Containerization & Orchestration**
    - **Docker**: For containerization, allowing you to package applications with dependencies.
