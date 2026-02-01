@@ -13,7 +13,6 @@ Tech Stack:
    - **Git**: Version control system for tracking changes in code.
    - **GitHub/GitLab/Bitbucket**: Platforms for hosting repositories and managing workflows.
    - **Jenkins**: CI/CD tool to automate build, testing, and deployment.
-   - **GitLab CI**: Built-in CI/CD for GitLab repositories.
 
 ### 2. **Containerization & Orchestration**
    - **Docker**: For containerization, allowing you to package applications with dependencies.
@@ -66,7 +65,7 @@ Tech Stack:
    - **Python** / **Shell scripting**: For automation and scripting tasks.
 
 ### 12. **Microservices Architecture & API Gateways**
-   - **Spring Boot** / **Node.js**: For building microservices.
+   - **Node.js**: For building microservices.
    - **Kong** / **Envoy**: API Gateway for managing and routing API traffic.
 
 ### 13. **Virtualization & Cloud Native Technologies**
@@ -77,8 +76,7 @@ Tech Stack:
    - **Consul**: Service mesh for networking microservices.
    - **Vault**: Tool for managing secrets and sensitive data.
    - **Istio**: Service mesh for microservices security and communication control.
-   - **Argo CD**: GitOps tool for Kubernetes.
-
+   - 
 ### 15. **Testing & Quality Assurance**
    - **JUnit** / **TestNG** / **Jest**: Unit testing frameworks for various languages.
    - **Selenium**: For UI testing.
