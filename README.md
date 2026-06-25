@@ -4,7 +4,7 @@
 - 💡 Exploring DevOps and its role in IT sector.
 - Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
 - 👯 I’m looking to collaborate on open source app developement
-- 📫 How to reach me?: 8114613927 sidhartha_0108@outlook.com
+- 📫 How to reach me?: +918114613927 sidhartha0108@gmail.com
 
 I am mastering a set of core technologies and tools for an SDE1, SDE2, System Design and DevOps role. 
 Tech Stack:
