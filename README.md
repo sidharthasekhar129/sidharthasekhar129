@@ -1,6 +1,6 @@
 # Hi there 👋 . I'M SIDHARTHA SEKHAR
 ## A self tought programmer.
-- 💼 I am currently working as SDE2 at Homznoffiz PVT. LTD. (https://homznoffiz.com)
+- 💼 I am currently working as SDE2 at Luxre Realty (https://luxrerealty.in)
 - 💡 Exploring DevOps and its role in IT sector.
 - Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
 - 👯 I’m looking to collaborate on open source app developement
