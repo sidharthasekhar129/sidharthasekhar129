@@ -1,104 +1,76 @@
-# Hi there 👋 . I'M SIDHARTHA SEKHAR
-## A self tought programmer.
-- 💼 I am currently working as SDE2 at Luxre Realty (https://luxrerealty.in)
-- 💡 Exploring DevOps and its role in IT sector.
-- Got 3+ years experience in native and cross-platform app developement(Java,Swift,Dart,React).
-- 👯 I’m looking to collaborate on open source app developement
-- 📫 How to reach me?: +918114613927 sidhartha0108@gmail.com
+# Hi there 👋 I'm SIDHARTHA SEKHAR
 
-I am mastering a set of core technologies and tools for an SDE1, SDE2, System Design and DevOps role. 
-Tech Stack:
+## 🚀 Technology Head | Full Stack Architect | AI Infrastructure & DevOps Engineer
 
-### 1. **Version Control & CI/CD**
-   - **Git**: Version control system for tracking changes in code.
-   - **GitHub/GitLab/Bitbucket**: Platforms for hosting repositories and managing workflows.
-   - **Jenkins**: CI/CD tool to automate build, testing, and deployment.
+### 💼 About Me
 
-### 2. **Containerization & Orchestration**
-   - **Docker**: For containerization, allowing you to package applications with dependencies.
-   - **Kubernetes (K8s)**: Orchestrates container deployment, scaling, and management.
-   - **Helm**: Package manager for Kubernetes.
+* 💼 Technology Head at **Luxre Realty**, leading engineering teams and delivering enterprise-scale digital products.
+* 🏗️ Architecting **Real Estate CRM**, **Lead Management Systems**, **Channel Partner Platforms**, **AI Products**, and **Business Automation**.
+* ☁️ Building a **Private Cloud** with **Rocky Linux**, **KVM**, **libvirt**, **Cockpit**, **Docker**, **Podman**, **Kubernetes (K3s)**, **Nginx**, **PostgreSQL**, **MySQL**, **Redis**, **MinIO**, **Prometheus**, **Grafana**, **Loki**, **Jenkins**, **GitLab CI/CD**, and **GitHub Actions**.
+* 🤖 Developing **Private AI Infrastructure** using **Ollama**, **Llama**, **Mistral**, **Qwen**, **DeepSeek**, **RAG**, **MCP**, and enterprise AI workflows.
+* ⚡ Passionate about **Distributed Systems**, **System Design**, **Cloud Native Architecture**, **High Availability**, and **Scalable Backend Engineering**.
+* 🔒 Interested in **Cybersecurity**, **Networking**, **Observability**, **Infrastructure Automation**, and **Performance Engineering**.
+* 🌱 Constantly learning and building technologies that solve real-world business problems.
+* 🤝 Open to collaborating on **Open Source**, **Cloud Native**, **AI**, **DevOps**, and **Large Scale Backend Systems**.
 
-### 3. **Cloud Platforms**
-   - **AWS** (Amazon Web Services): EC2, S3, RDS, IAM, Lambda, etc.
-   - **Azure**: Virtual machines, App services, AKS, Functions, etc.
-   - **Google Cloud Platform (GCP)**: Compute Engine, Cloud Functions, GKE (Kubernetes Engine).
+## 💻 Tech Stack
 
-### 4. **Infrastructure as Code (IaC)**
-   - **Terraform**: IaC tool for automating cloud resource provisioning.
-   - **Ansible**: Automation tool for configuring systems and deploying software.
-   - **CloudFormation** (AWS specific): AWS-native infrastructure automation tool.
+### 🚀 Languages
 
-### 5. **Monitoring & Logging**
-   - **Prometheus**: Monitoring tool that collects metrics and allows real-time querying.
-   - **Grafana**: Visualization tool that works well with Prometheus for monitoring.
-   - **ELK Stack** (Elasticsearch, Logstash, Kibana): Logging and analytics solution.
-   - **Datadog**: Cloud monitoring and security platform.
-   - **New Relic**: Application performance monitoring (APM) tool.
+`JavaScript` • `TypeScript` • `Dart` • `Java` • `Swift` • `SQL` • `Bash`
 
-### 6. **Message Queuing & Stream Processing**
-   - **Kafka**: Distributed message streaming platform for building real-time data pipelines.
-   - **RabbitMQ**: Message broker for asynchronous communication between services.
-   - **Redis**: In-memory data structure store, commonly used as a database, cache, and message broker.
-   - **Apache Flink** or **Apache Storm**: For stream processing.
+### 🎨 Frontend
 
-### 7. **Databases**
-   - **MySQL** / **PostgreSQL**: Relational databases.
-   - **MongoDB**: NoSQL database for unstructured data.
-   - **Cassandra**: NoSQL database for managing large amounts of data across multiple servers.
+`React` • `Next.js` • `Flutter` • `HTML5` • `CSS3` • `Tailwind CSS`
 
-### 8. **Configuration Management**
-   - **Chef** / **Puppet**: Automation tools for configuration management and application deployment.
-   - **SaltStack**: Another automation and configuration tool.
+### ⚙️ Backend
 
-### 9. **Networking & Security**
-   - **Nginx** / **HAProxy**: Web server and reverse proxy technologies.
-   - **SSL/TLS**: Implementing HTTPS and securing communications.
-   - **OAuth2** / **JWT**: Authentication and authorization protocols.
+`Node.js` • `Express.js` • `REST API` • `Socket.IO` • `WebSockets` • `XMPP (Ejabberd)` • `JWT`
 
-### 10. **Build Tools**
-   - **Maven** / **Gradle**: Build automation tools commonly used with Java projects.
-   - **Webpack**: Module bundler for JavaScript applications.
+### 🗄️ Databases
 
-### 11. **Operating Systems & Scripting**
-   - **Linux**: Mastering shell scripting (Bash) and Linux administration is crucial for DevOps.
-   - **Python** / **Shell scripting**: For automation and scripting tasks.
+`MySQL` • `PostgreSQL` • `Redis` • `MinIO`
 
-### 12. **Microservices Architecture & API Gateways**
-   - **Node.js**: For building microservices.
-   - **Kong** / **Envoy**: API Gateway for managing and routing API traffic.
+### ☁️ Cloud & Infrastructure
 
-### 13. **Virtualization & Cloud Native Technologies**
-   - **VMware** / **VirtualBox**: Virtualization tools.
-   - **Vagrant**: Tool for building and managing virtualized development environments.
+`Rocky Linux` • `Ubuntu Server` • `KVM` • `libvirt` • `Cockpit` • `Docker` • `Podman` • `Kubernetes (K3s)` • `Nginx`
 
-### 14. **Other DevOps Tools**
-   - **Consul**: Service mesh for networking microservices.
-   - **Vault**: Tool for managing secrets and sensitive data.
-   - **Istio**: Service mesh for microservices security and communication control.
-   - 
-### 15. **Testing & Quality Assurance**
-   - **JUnit** / **TestNG** / **Jest**: Unit testing frameworks for various languages.
-   - **Selenium**: For UI testing.
-   - **Postman**: API testing tool.
-  
+### 🔄 DevOps
 
-## Connect with me
-[<img src="https://user-images.githubusercontent.com/55876522/99841014-849cfd80-2b93-11eb-9632-152cf3fe9ea9.png" width="50"/>](https://linkedin.com/in/sidhartha-sekhar/)
-[<img src="https://user-images.githubusercontent.com/55876522/99840007-bad97d80-2b91-11eb-8874-21220b3c5415.png" width="50"/>](https://twitter.com/Sidhartha_123)
-[<img src="https://user-images.githubusercontent.com/55876522/99840347-62ef4680-2b92-11eb-9e92-d39dd0cd6076.png" width="50"/>](https://facebook.com/Sidhartha.sekhar.52)
-[<img src="https://user-images.githubusercontent.com/55876522/99840615-e315ac00-2b92-11eb-95cf-adebdae5c661.jpeg" width="50"/>](https://instagram.com/sidhartha_sekhar_1758)
-<!--
-**sidharthasekhar129/sidharthasekhar129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Git` • `GitHub` • `GitLab` • `GitHub Actions` • `GitLab CI/CD` • `Jenkins` • `PM2`
 
-Here are some ideas to get you started:
+### 📊 Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Prometheus` • `Grafana` • `Loki` • `Alertmanager` • `Node Exporter`
+
+### 🤖 AI
+
+`Ollama` • `OpenAI API` • `Llama` • `Mistral` • `Qwen` • `DeepSeek` • `RAG` • `MCP`
+
+### 💬 Communication
+
+`Socket.IO` • `Ejabberd` • `XMPP` • `WebRTC` • `Jitsi`
+
+### 🌐 Networking & Security
+
+`DNS` • `SSL/TLS` • `Let's Encrypt` • `Reverse Proxy` • `VPN`
+
+## 🚧 Currently Building
+
+* ☁️ Enterprise Private Cloud Infrastructure
+* 🤖 Self-Hosted AI Platform
+* 🧠 AI Agents & RAG Applications
+* ⚙️ Kubernetes HomeLab & Automation
+* 📊 Monitoring & Observability Platform
+* 💬 Enterprise Chat & Communication Platform
+* 🏢 Enterprise SaaS Products
+
+## 📫 Connect With Me
+
+* 🌐 **Portfolio:** https://sidharthasekhar.com
+* 💼 **Company:** https://luxrerealty.in
+* 📧 **Email:** [sidhartha0108@gmail.com](mailto:sidhartha0108@gmail.com)
+
+---
+
+> **"Building enterprise software, private cloud infrastructure, and AI-powered platforms that scale."**
