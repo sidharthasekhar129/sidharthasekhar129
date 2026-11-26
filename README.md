@@ -4,7 +4,7 @@
 
 ### 💼 About Me
 
-- 💼 Technology Head at **Luxre Realty**, leading engineering teams, technology strategy, infrastructure, and enterprise software development.
+- 💼 Technology Head at **Elevate Capital**, leading engineering teams, technology strategy, infrastructure, and enterprise software development.
 - 🏗️ Architecting and developing **Enterprise Real Estate CRM**, **Lead Management Systems**, **Channel Partner Platforms**, **AI-powered Products**, and **Business Automation Solutions**.
 - ☁️ Designing and building **Private Cloud & Hybrid Infrastructure** using OpenStack, KVM, Rocky Linux, Ubuntu Server, VMware, Kubernetes, and container technologies.
 - 🖥️ Exploring enterprise cloud ecosystems including **OpenStack, Ceph, MAAS, Juju, Landscape, MicroStack, MicroCloud, and Anbox Cloud**.
